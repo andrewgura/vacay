@@ -1,0 +1,62 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "Abigayle",
+        "last": "Harrison",
+        "classes": ["Math", "English"]
+      },
+      {
+        "id": 2,
+        "name": "Gregg",
+        "last": "Sondra",
+        "classes": ["Math"]
+      },
+      {
+        "id": 3,
+        "name": "Royce",
+        "last": "Jayma",
+        "classes": ["Science", "Math", "Gym", "History"]
+      },
+      {
+        "id": 4,
+        "name": "Teal",
+        "last": "Sophy",
+        "classes": ["Math","Gym"]
+      }
+    ],
+    "classes": [
+      {
+        "id": 1,
+        "name": "Math"
+      },
+      {
+        "id": 2,
+        "name": "Science"
+      },
+      {
+        "id": 3,
+        "name": "Gym"
+      },
+      {
+        "id": 4,
+        "name": "History"
+      },
+      {
+        "id": 5,
+        "name": "English"
+      },
+      {
+        "id": 6,
+        "name": "French"
+      },
+      {
+        "id": 7,
+        "name": "German"
+      },
+      {
+        "id": 8,
+        "name": "Spanish"
+      }
+    ]
+}
